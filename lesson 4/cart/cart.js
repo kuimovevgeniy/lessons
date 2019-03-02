@@ -13,7 +13,12 @@ var arr = [
     },
     {
         name: 'Носки',
-        price: 100,
+        price: 50,
+        quantity: 1,
+    },
+    {
+        name: 'Сандали',
+        price: 200,
         quantity: 1,
     }
 ]
