@@ -1,0 +1,26 @@
+table {
+    color: #8ba760;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+}
+tr:first-child td,
+tr:last-child td,
+td:first-child,
+td:last-child {
+    background: white;
+    text-align: center;
+    font-size: 25px;
+    color: red;
+}
+tr:first-child td
+
+.white {
+    background: white;
+}
+
+.black {
+    background: black;
+}
